@@ -1,0 +1,624 @@
+city,skills,count
+Alpharetta,Communication,1
+Alpharetta,Data Analysis,1
+Alpharetta,Excel,1
+Alpharetta,Python,1
+Alpharetta,R,1
+Alpharetta,SQL,1
+Alpharetta,Tableau,1
+Ann Arbor,Power BI,12
+Ann Arbor,Python,12
+Ann Arbor,R,12
+Ann Arbor,SQL,12
+Ann Arbor,Tableau,12
+Annapolis,Excel,20
+Annapolis,Python,20
+Annapolis,R,20
+Annapolis,SQL,20
+Arizona,Excel,1
+Arizona,Power BI,1
+Arizona,R,1
+Arizona,SQL,1
+Atlanta,R,7
+Atlanta,Communication,6
+Atlanta,Excel,6
+Atlanta,Data Analysis,1
+Atlanta,Machine Learning,1
+Atlanta,Power BI,1
+Atlanta,SQL,1
+Atlanta,Tableau,1
+Atlanta Metropolitan Area,R,31
+Atlanta Metropolitan Area,SQL,31
+Atlanta Metropolitan Area,Tableau,31
+Atlanta Metropolitan Area,Communication,29
+Atlanta Metropolitan Area,Statistics,29
+Atlanta Metropolitan Area,Data Analysis,2
+Austin,R,72
+Austin,SQL,71
+Austin,Communication,69
+Austin,Python,69
+Austin,Tableau,68
+Austin,Statistics,67
+Austin,Machine Learning,34
+Austin,Data Analysis,33
+Austin,Excel,7
+Austin,Power BI,3
+Bellevue,Data Analysis,4
+Bellevue,ETL,4
+Bellevue,Power BI,4
+Bellevue,R,4
+Bellevue,SQL,4
+Bellevue,Tableau,4
+Boston,Data Analysis,54
+Boston,R,54
+Boston,SQL,54
+Boston,Statistics,54
+Boston,Python,37
+Boston,Tableau,37
+Boston,AWS,36
+Boston,Power BI,36
+Boston,Excel,17
+Bridgewater,Excel,1
+Bridgewater,R,1
+Buffalo-Niagara Falls Area,Communication,32
+Buffalo-Niagara Falls Area,Data Analysis,32
+Buffalo-Niagara Falls Area,Excel,32
+Buffalo-Niagara Falls Area,Python,32
+Buffalo-Niagara Falls Area,R,32
+Buffalo-Niagara Falls Area,SQL,32
+Buffalo-Niagara Falls Area,Statistics,32
+Buffalo-Niagara Falls Area,Tableau,32
+Burbank,R,19
+Burbank,Communication,15
+Burbank,Data Analysis,15
+Burbank,Python,15
+Burbank,SQL,15
+Burbank,AWS,4
+Burbank,Excel,4
+Camden,Communication,2
+Camden,Excel,2
+Camden,R,2
+Camden,Data Analysis,1
+Camden,SQL,1
+Camden,Statistics,1
+Camden,Tableau,1
+Carlsbad,Communication,21
+Carlsbad,Data Analysis,21
+Carlsbad,ETL,21
+Carlsbad,Excel,21
+Carlsbad,R,21
+Cedar Rapids,AWS,1
+Cedar Rapids,Communication,1
+Cedar Rapids,Excel,1
+Cedar Rapids,Power BI,1
+Cedar Rapids,Python,1
+Cedar Rapids,R,1
+Cedar Rapids,SQL,1
+Cedar Rapids,Statistics,1
+Charlotte,R,40
+Charlotte,SQL,40
+Charlotte,Tableau,38
+Charlotte,Python,28
+Charlotte,Data Analysis,26
+Charlotte,Machine Learning,25
+Charlotte,Power BI,14
+Charlotte,ETL,12
+Charlotte,Communication,3
+Charlotte,Statistics,3
+Charlotte Metro,Data Analysis,1
+Charlotte Metro,R,1
+Charlotte Metro,SQL,1
+Chicago,R,152
+Chicago,Data Analysis,142
+Chicago,Excel,106
+Chicago,SQL,105
+Chicago,Communication,80
+Chicago,Statistics,77
+Chicago,Tableau,72
+Chicago,Power BI,37
+Chicago,Python,34
+Chicago,ETL,2
+Cincinnati,Excel,1
+Cincinnati,Power BI,1
+Cincinnati,Python,1
+Cincinnati,R,1
+Cincinnati,SQL,1
+Cincinnati,Statistics,1
+Cincinnati,Tableau,1
+Cincinnati Metropolitan Area,Communication,35
+Cincinnati Metropolitan Area,ETL,35
+Cincinnati Metropolitan Area,R,35
+Cincinnati Metropolitan Area,SQL,35
+Cleveland,Excel,1
+Cleveland,R,1
+Cleveland,SQL,1
+Columbia,Data Analysis,1
+Columbia,ETL,1
+Columbia,R,1
+Columbia,SQL,1
+Columbus,Data Analysis,1
+Columbus,Python,1
+Columbus,R,1
+Columbus,SQL,1
+Columbus,Spark,1
+Columbus,Statistics,1
+Conshohocken,Communication,35
+Conshohocken,R,35
+Crystal City,Communication,1
+Crystal City,Data Analysis,1
+Crystal City,Excel,1
+Crystal City,R,1
+Crystal City,SQL,1
+Dallas,R,53
+Dallas,SQL,53
+Dallas,Python,52
+Dallas,Data Analysis,35
+Dallas,Machine Learning,34
+Dallas,Tableau,34
+Dallas,ETL,17
+Dallas,AWS,1
+Dallas,Communication,1
+Dallas,Excel,1
+Dallas-Fort Worth Metroplex,R,2
+Dallas-Fort Worth Metroplex,SQL,2
+Dallas-Fort Worth Metroplex,AWS,1
+Dallas-Fort Worth Metroplex,Communication,1
+Dallas-Fort Worth Metroplex,Data Analysis,1
+Dallas-Fort Worth Metroplex,Excel,1
+Dallas-Fort Worth Metroplex,Power BI,1
+Dallas-Fort Worth Metroplex,Python,1
+Dallas-Fort Worth Metroplex,Statistics,1
+Delray Beach,Excel,19
+Delray Beach,R,19
+Delray Beach,Statistics,19
+Denver Metropolitan Area,Excel,36
+Denver Metropolitan Area,R,36
+Denver Metropolitan Area,SQL,36
+Des Moines,AWS,1
+Des Moines,Communication,1
+Des Moines,Excel,1
+Des Moines,Power BI,1
+Des Moines,Python,1
+Des Moines,R,1
+Des Moines,SQL,1
+Des Moines,Statistics,1
+Detroit,Communication,2
+Detroit,Excel,2
+Detroit,Python,2
+Detroit,R,2
+Detroit,SQL,2
+Detroit,Statistics,2
+Detroit,AWS,1
+Detroit,Data Analysis,1
+Detroit,Power BI,1
+District of Columbia,Communication,36
+District of Columbia,Data Analysis,36
+District of Columbia,Excel,36
+District of Columbia,Power BI,36
+District of Columbia,R,36
+District of Columbia,Statistics,36
+District of Columbia,Tableau,36
+Dublin,Communication,1
+Dublin,Excel,1
+Dublin,Python,1
+Dublin,R,1
+Dublin,SQL,1
+Dublin,Spark,1
+Dublin,Tableau,1
+Eden Prairie,R,1
+Eden Prairie,SQL,1
+Fort Lauderdale,Data Analysis,6
+Fort Lauderdale,Excel,6
+Fort Lauderdale,Power BI,6
+Fort Lauderdale,Python,6
+Fort Lauderdale,R,6
+Fort Lauderdale,SQL,6
+Fort Lauderdale,Statistics,6
+Fort Lauderdale,Tableau,6
+Franklin,Data Analysis,38
+Franklin,R,38
+Georgia,R,1
+Georgia,SQL,1
+Greater Sacramento,Communication,34
+Greater Sacramento,Machine Learning,34
+Greater Sacramento,Power BI,34
+Greater Sacramento,R,34
+Greater Sacramento,Tableau,34
+Greater Scranton Area,Excel,35
+Greater Scranton Area,Python,35
+Greater Scranton Area,R,35
+Greater Scranton Area,SQL,35
+Greater Tampa Bay Area,AWS,1
+Greater Tampa Bay Area,Communication,1
+Greater Tampa Bay Area,Data Analysis,1
+Greater Tampa Bay Area,Excel,1
+Greater Tampa Bay Area,Power BI,1
+Greater Tampa Bay Area,R,1
+Greater Tampa Bay Area,SQL,1
+Greensboro--Winston-Salem--High Point Area,Data Analysis,37
+Greensboro--Winston-Salem--High Point Area,Excel,37
+Greensboro--Winston-Salem--High Point Area,Power BI,37
+Greensboro--Winston-Salem--High Point Area,R,37
+Greensboro--Winston-Salem--High Point Area,SQL,37
+Hartford,AWS,34
+Hartford,Communication,34
+Hartford,Data Analysis,34
+Hartford,ETL,34
+Hartford,Excel,34
+Hartford,R,34
+Hartford,SQL,34
+Hoffman Estates,AWS,14
+Hoffman Estates,ETL,14
+Hoffman Estates,Excel,14
+Hoffman Estates,Power BI,14
+Hoffman Estates,R,14
+Hoffman Estates,SQL,14
+Hoffman Estates,Statistics,14
+Home,Communication,1
+Home,ETL,1
+Home,Excel,1
+Home,Machine Learning,1
+Home,Python,1
+Home,R,1
+Home,SQL,1
+Home,Tableau,1
+Houston,R,30
+Houston,SQL,29
+Houston,Python,28
+Houston,Communication,3
+Houston,Excel,3
+Houston,AWS,2
+Houston,Power BI,2
+Houston,Statistics,2
+Houston,Data Analysis,1
+Houston,Tableau,1
+Huntersville,Excel,1
+Huntersville,R,1
+Huntersville,SQL,1
+Illinois,Excel,38
+Illinois,Python,38
+Illinois,R,38
+Illinois,SQL,38
+Illinois,Communication,1
+Illinois,Data Analysis,1
+Illinois,Power BI,1
+Illinois,Tableau,1
+Indiana,Excel,35
+Indiana,Python,35
+Indiana,R,35
+Indiana,SQL,35
+Irvine,R,31
+Irvine,Data Analysis,30
+Irvine,SQL,30
+Irvine,Excel,2
+Irvine,Power BI,2
+Irvine,Tableau,2
+Irvine,AWS,1
+Irvine,Communication,1
+Irving,Communication,1
+Irving,ETL,1
+Irving,Excel,1
+Irving,R,1
+Irving,SQL,1
+Irving,Statistics,1
+Kansas City Metropolitan Area,Data Analysis,1
+Kansas City Metropolitan Area,Python,1
+Kansas City Metropolitan Area,R,1
+Kansas City Metropolitan Area,SQL,1
+Kansas City Metropolitan Area,Tableau,1
+Knoxville,Excel,1
+Knoxville,R,1
+Los Angeles,Communication,1
+Los Angeles,Data Analysis,1
+Los Angeles,Excel,1
+Los Angeles,R,1
+Los Angeles,SQL,1
+Los Angeles Metropolitan Area,Communication,3
+Los Angeles Metropolitan Area,Power BI,3
+Los Angeles Metropolitan Area,Python,3
+Los Angeles Metropolitan Area,R,3
+Los Angeles Metropolitan Area,SQL,3
+Los Angeles Metropolitan Area,Tableau,3
+Manassas,R,25
+Maryland,R,1
+Maryland,SQL,1
+Miami,Excel,40
+Miami,R,40
+Miami,AWS,36
+Miami,Communication,36
+Miami,Data Analysis,36
+Miami,Python,36
+Miami,SQL,36
+Miami,Statistics,36
+Michigan,Excel,4
+Michigan,R,4
+Michigan,Statistics,4
+Michigan,Tableau,4
+Minneapolis,ETL,1
+Minneapolis,R,1
+Minneapolis,SQL,1
+Miramar,Data Analysis,1
+Miramar,Python,1
+Miramar,R,1
+Miramar,SQL,1
+Mishawaka,AWS,17
+Mishawaka,Communication,17
+Mishawaka,ETL,17
+Mishawaka,Machine Learning,17
+Mishawaka,Python,17
+Mishawaka,R,17
+Mishawaka,SQL,17
+Mishawaka,Statistics,17
+Morgan Hill,Excel,33
+Morgan Hill,Python,33
+Morgan Hill,R,33
+Morgan Hill,SQL,33
+Morris Plains,R,5
+Morris Plains,SQL,5
+Morris Plains,Statistics,5
+Morris Plains,Tableau,5
+Mount Pleasant,Data Analysis,4
+Mount Pleasant,Excel,4
+Mount Pleasant,Power BI,4
+Mount Pleasant,R,4
+Mount Pleasant,SQL,4
+Mount Pleasant,Tableau,4
+Nashville,Communication,2
+Nashville,Data Analysis,2
+Nashville,Excel,2
+Nashville,R,2
+Nashville,SQL,2
+Nashville,Tableau,2
+Nashville,Power BI,1
+Nashville,Python,1
+Nashville Metropolitan Area,Excel,1
+Nashville Metropolitan Area,R,1
+Nashville Metropolitan Area,SQL,1
+Nashville Metropolitan Area,Tableau,1
+New Haven,Excel,1
+New Haven,Power BI,1
+New Haven,R,1
+New Jersey,Communication,1
+New Jersey,Data Analysis,1
+New Jersey,Excel,1
+New Jersey,Python,1
+New Jersey,R,1
+New Jersey,SQL,1
+New York,R,132
+New York,SQL,127
+New York,Tableau,110
+New York,Python,94
+New York,Statistics,78
+New York,Communication,41
+New York,Excel,41
+New York,Machine Learning,29
+New York,Data Analysis,28
+New York,AWS,16
+New York City Metropolitan Area,R,177
+New York City Metropolitan Area,SQL,177
+New York City Metropolitan Area,Data Analysis,123
+New York City Metropolitan Area,Tableau,118
+New York City Metropolitan Area,Statistics,101
+New York City Metropolitan Area,Excel,71
+New York City Metropolitan Area,ETL,29
+New York City Metropolitan Area,AWS,22
+New York City Metropolitan Area,Communication,22
+New York City Metropolitan Area,Python,22
+North Carolina,Excel,35
+North Carolina,R,35
+North Carolina,Statistics,35
+Novato,Excel,5
+Novato,R,5
+O'Fallon,ETL,19
+O'Fallon,R,19
+O'Fallon,SQL,18
+O'Fallon,Tableau,1
+Oakbrook Terrace,Power BI,1
+Oakbrook Terrace,R,1
+Oakbrook Terrace,SQL,1
+Oklahoma City,Excel,1
+Oklahoma City,R,1
+Oklahoma City,SQL,1
+Oklahoma City,Tableau,1
+Omaha,Communication,30
+Omaha,Data Analysis,30
+Omaha,Excel,30
+Omaha,Python,30
+Omaha,R,30
+Omaha,SQL,30
+Omaha,Statistics,30
+Omaha,Tableau,30
+Ontario,R,2
+Ontario,SQL,2
+Orlando,Communication,1
+Orlando,Data Analysis,1
+Orlando,Python,1
+Orlando,R,1
+Orlando,SQL,1
+Orlando,Statistics,1
+Orlando,Tableau,1
+Palo Alto,Communication,1
+Palo Alto,Data Analysis,1
+Palo Alto,R,1
+Pennsylvania,Communication,21
+Pennsylvania,Data Analysis,21
+Pennsylvania,Python,21
+Pennsylvania,R,21
+Pennsylvania,SQL,21
+Philadelphia,R,3
+Philadelphia,SQL,3
+Philadelphia,Communication,2
+Philadelphia,Data Analysis,2
+Philadelphia,Excel,2
+Philadelphia,Tableau,2
+Philadelphia,AWS,1
+Philadelphia,Power BI,1
+Philadelphia,Python,1
+Phoenix,Excel,35
+Phoenix,R,35
+Phoenix,Communication,33
+Phoenix,SQL,33
+Phoenix,Tableau,33
+Phoenix,Power BI,2
+Pittsburgh,Communication,1
+Pittsburgh,Data Analysis,1
+Pittsburgh,Excel,1
+Pittsburgh,Python,1
+Pittsburgh,R,1
+Pittsburgh,SQL,1
+Plano,Excel,22
+Plano,R,22
+Plano,Power BI,21
+Plano,Python,21
+Plano,Communication,1
+Plano,SQL,1
+Pleasanton,Communication,1
+Pleasanton,R,1
+Queens,Communication,3
+Queens,Excel,3
+Queens,R,3
+Queens,SQL,3
+Quincy,Communication,33
+Quincy,ETL,33
+Quincy,R,33
+Quincy,SQL,33
+Raleigh,Communication,22
+Raleigh,Data Analysis,22
+Raleigh,Excel,22
+Raleigh,R,22
+Richfield,Communication,35
+Richfield,Excel,35
+Richfield,R,35
+Richfield,SQL,35
+San Antonio,Excel,4
+San Antonio,R,4
+San Antonio,Communication,2
+San Antonio,Data Analysis,2
+San Antonio,Python,2
+San Antonio,SQL,2
+San Antonio,Tableau,2
+San Diego,Communication,17
+San Diego,Python,17
+San Diego,R,17
+San Diego,SQL,17
+San Diego,Statistics,17
+San Diego,Tableau,17
+San Francisco,Communication,32
+San Francisco,R,32
+San Francisco,SQL,32
+San Francisco,ETL,24
+San Francisco,Machine Learning,24
+San Francisco,Python,8
+San Francisco,Tableau,7
+San Francisco Bay Area,Data Analysis,25
+San Francisco Bay Area,ETL,25
+San Francisco Bay Area,Python,25
+San Francisco Bay Area,R,25
+San Francisco Bay Area,SQL,25
+San Francisco Bay Area,Spark,25
+San Jose,Communication,28
+San Jose,Data Analysis,28
+San Jose,Excel,28
+San Jose,Python,28
+San Jose,R,28
+San Jose,SQL,28
+San Jose,Statistics,28
+San Jose,Tableau,28
+Santa Clara,Communication,1
+Santa Clara,Data Analysis,1
+Santa Clara,Excel,1
+Santa Clara,Machine Learning,1
+Santa Clara,R,1
+Santa Clara,SQL,1
+Santa Clara,Statistics,1
+Santa Clara,Tableau,1
+Scottsdale,Communication,27
+Scottsdale,Data Analysis,27
+Scottsdale,Excel,27
+Scottsdale,Python,27
+Scottsdale,R,27
+Scottsdale,SQL,27
+Scottsdale,Statistics,27
+Scottsdale,Tableau,27
+Seattle,Communication,1
+Seattle,Data Analysis,1
+Seattle,Python,1
+Seattle,R,1
+Seattle,SQL,1
+Seattle,Statistics,1
+Seattle,Tableau,1
+South Barrington,Data Analysis,1
+South Barrington,Excel,1
+South Barrington,Power BI,1
+South Barrington,R,1
+South Barrington,SQL,1
+Southaven,Excel,20
+Southaven,Python,20
+Southaven,R,20
+Southaven,SQL,20
+Sun City,Communication,1
+Sun City,Excel,1
+Sun City,Python,1
+Sun City,R,1
+Sun City,SQL,1
+Sun City,Statistics,1
+Tampa,Communication,1
+Tampa,Data Analysis,1
+Tampa,Excel,1
+Tampa,R,1
+Tempe,R,38
+Tempe,SQL,38
+Tempe,AWS,37
+Tempe,Power BI,36
+Tempe,Python,36
+Tempe,Data Analysis,1
+Tempe,Tableau,1
+Tennessee,Excel,37
+Tennessee,Python,37
+Tennessee,R,37
+Tennessee,SQL,37
+Texas,R,67
+Texas,Excel,37
+Texas,Python,37
+Texas,SQL,37
+Timonium,Excel,60
+Timonium,Python,60
+Timonium,R,60
+Timonium,SQL,60
+Timonium,Communication,31
+Timonium,Data Analysis,31
+Timonium,Statistics,31
+Timonium,Tableau,31
+United States,R,621
+United States,SQL,443
+United States,Excel,330
+United States,Communication,248
+United States,Tableau,225
+United States,Data Analysis,218
+United States,Statistics,177
+United States,Power BI,126
+United States,ETL,122
+United States,Python,108
+Virginia,Excel,20
+Virginia,Python,20
+Virginia,R,20
+Virginia,SQL,20
+Washington,Power BI,1
+Washington,R,1
+Washington,SQL,1
+Wilmington,Excel,20
+Wilmington,R,20
+Wilmington,Python,19
+Wilmington,SQL,19
+Wilmington,Machine Learning,1
+Wilmington,Power BI,1
+Wisconsin,Excel,20
+Wisconsin,Python,20
+Wisconsin,R,20
+Wisconsin,SQL,20
+Woodcliff Lake,Communication,1
+Woodcliff Lake,Data Analysis,1
+Woodcliff Lake,Excel,1
+Woodcliff Lake,R,1
+Woodcliff Lake,SQL,1
+Woodcliff Lake,Tableau,1
